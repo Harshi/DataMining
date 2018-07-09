@@ -1,0 +1,10 @@
+Streaming Algorithms
+
+Misra-Gries Algorithm
+Given a long stram of input that can only be examined twice, the Misra-Gries computes which value makes up the majority of the stream, or more generally, the set of items that constitute some fixed fraction of the stream.  
+
+Count -Min Sketch 
+Count-min sketch uses hash functions to map events to frequencies at the expense of over-counting some events due to collisions..
+
+
+code : streaming.py
